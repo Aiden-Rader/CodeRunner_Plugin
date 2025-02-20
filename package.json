@@ -1,0 +1,22 @@
+{
+  "name": "coderunner_plugin",
+  "version": "1.0.0",
+  "description": "Repo for a multipurpose coderunner interface for multiple languages, used mainly for implementation into other projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jquery": "^3.5.32",
+    "@types/node": "^22.13.4",
+    "typescript": "^5.7.3"
+  },
+  "dependencies": {
+    "jquery": "^3.7.1",
+    "monaco": "^1.201704190613.0",
+    "monaco-editor": "^0.52.2"
+  }
+}
